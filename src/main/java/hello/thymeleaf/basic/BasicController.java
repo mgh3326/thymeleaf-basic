@@ -22,6 +22,6 @@ public class BasicController {
 
     model.addAttribute("data", "Hello <b>Spring!</b>");
 
-    return "basic/text-unescape";
+    return "basic/text-unescaped";
   }
 }
